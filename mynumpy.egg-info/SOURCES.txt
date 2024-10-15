@@ -1,0 +1,7 @@
+pyproject.toml
+setup.py
+mynumpy.egg-info/PKG-INFO
+mynumpy.egg-info/SOURCES.txt
+mynumpy.egg-info/dependency_links.txt
+mynumpy.egg-info/requires.txt
+mynumpy.egg-info/top_level.txt
