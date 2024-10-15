@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: mynumpy
-Version: 0.2
+Version: 0.3
 Summary: A custom library built on top of numpy
 Home-page: https://github.com/ladominguez/mynumpy
 Author: Luis A. Dominguez

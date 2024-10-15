@@ -17,12 +17,9 @@ def fLOESS(x,y, span):
     """
     
     # Error checking
-    if len(noisy) * span < 4:
+    if len(x) * span < 4:
         raise ValueError('The input "span" is too low')
 
-    # Check if noisy is a 1D array, if so create default x data
-    if noisy.ndim == 1:
-        noisy = np.column_stack((np.arange(1, len(noisy)+1), noisy))
 
     # Define variables
     #x = noisy[:, 0]
